@@ -1,0 +1,87 @@
+####################################
+# Unity auto-generated directories #
+####################################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+#################
+# Build outputs #
+#################
+
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+
+############################
+# Burst / native artifacts #
+############################
+
+**/BurstCache/
+**/burst_debug_information*/
+**/burst_temp/
+
+##########################
+# Native compiled files #
+##########################
+
+*.dylib
+*.dll
+*.so
+*.pdb
+
+################################
+# IDE & editor generated files #
+################################
+
+.vs/
+.idea/
+.vscode/
+.gradle/
+.consulo/
+
+#############################
+# Visual Studio / Rider     #
+#############################
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+#################
+# OS junk files #
+#################
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+###############
+# Log files   #
+###############
+
+*.log
+sysinfo.txt
+
+#############################
+# Addressables & temp data #
+#############################
+
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa*
